@@ -29,7 +29,7 @@ Chicago\_Crime\_Data\_Analysis-main/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Chicago_Crime_Data_Analysis.git
+git clone https://github.com/Manavj99/Chicago-Crime-Data-Analysis.git
 cd Chicago_Crime_Data_Analysis
 ````
 
