@@ -103,8 +103,3 @@ Contributions are welcome! Please open an issue or submit a pull request for enh
 ## 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it for your own work.
-
-```
-
-Would you like me to also prepare a ready-to-use **requirements.txt** snippet here so you can drop both files into your repo at once?
-```
